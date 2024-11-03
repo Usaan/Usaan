@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="left">👋 Hello, I'm Gabriel!</h1>
 
-<!--
-**Usaan/Usaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">📌 About Me</h2>
+<p align="left">I am currently studying System Analysis and Development at UniFacema in Caxias, MA, Brazil. I have been involved in the programming world since 2016, and I am passionate about learning new technologies and tools, exploring artificial intelligence, and solving real-world problems.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">💻 Technologies & Tools</h2>
+
+###
+
+  <img src="https://skillicons.dev/icons?i=c,cs,php,py,mysql,github,git,vscode,visualstudio" />
+  <img align="right" height="500" src="https://i.imgur.com/2HKJkNE.png" />
