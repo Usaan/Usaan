@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" transform="scale(1, -1)" viewBox="0 0 1440 320">
+  <path fill="#3500ca" fill-opacity="1" d="M0,256L40,218.7C80,181,160,107,240,69.3C320,32,400,32,480,48C560,64,640,96,720,117.3C800,139,880,149,960,133.3C1040,117,1120,75,1200,53.3C1280,32,1360,32,1400,32L1440,32L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path><text x="48%" y="30%" text-anchor="middle" fill="#ffffff" font-size="80" font-family="'Poppins', Arial, sans-serif" dy=".3em" transform="scale(1, -1)" transform-origin="50% 50%">HEY, I'M GABRIEL</text>
+</svg>
