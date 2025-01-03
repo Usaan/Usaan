@@ -1,8 +1,14 @@
 ![top img](./images/top.svg)
 
 I'm currently studying System Analysis and Development at [UniFacema](https://unifacema.edu.br/) in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
+___
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usaan/Usaan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usaan/Usaan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Usaan/Usaan/output/github-snake.svg" />
+</picture>
+
 ###
 
 <h2 align="left">💻 Technologies & Tools</h2>
