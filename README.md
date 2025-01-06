@@ -1,12 +1,13 @@
 ![top img](./images/top.svg)
 
 <img src="./images/laptop.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<br><br>
 <p align=justify>I'm currently studying System Analysis and Development at <a href="https://unifacema.edu.br/">UniFacema</a> in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
 <br>
 <br>
 Although familiar with both front-end and back-end development, my goal is to grow professionally in the back-end field, applying my skills to create innovative solutions that enhance the efficiency and success of systems.
 </p>
-
+<br>
 <h2 align="left">💻 Technologies & Tools</h2>
 
 ###
