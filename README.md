@@ -2,8 +2,7 @@
 
 I'm currently studying System Analysis and Development at [UniFacema](https://unifacema.edu.br/) in Caxias, MA, Brazil. Passionate about exploring new technologies and innovative tools, I enjoy applying my skills to solve real-world problems.
 
----
-###
+#
 
 <h2 align="left">💻 Technologies & Tools</h2>
 
@@ -25,20 +24,20 @@ I'm currently studying System Analysis and Development at [UniFacema](https://un
 <p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
   <a href="mailto:usaan.gabriel@gmail.com">
     <picture>
-      <source srcset="./icons/gmail.png" media="(prefers-color-scheme: light)">
-      <img src="./icons/gmail-dark.png" alt="Email" />
+      <source srcset="./icons/gmail.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/gmail-dark.svg" alt="Email" />
     </picture>
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <picture>
-      <source srcset="./icons/linkedin.png" media="(prefers-color-scheme: light)">
-      <img src="./icons/linkedin-dark.png" alt="LinkedIn" />
+      <source srcset="./icons/linkedin.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/linkedin-dark.svg" alt="LinkedIn" />
     </picture>
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <picture>
-      <source srcset="./icons/instagram.png" media="(prefers-color-scheme: light)">
-      <img src="./icons/instagram-dark.png" alt="Instagram" />
+      <source srcset="./icons/instagram.svg" media="(prefers-color-scheme: light)">
+      <img src="./icons/instagram-dark.svg" alt="Instagram" />
     </picture>
   </a>
 </p>
